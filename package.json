@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  },
+  "name": "discordjs-template",
+  "version": "1.0.0",
+  "description": "This is a template for your discord.js bot !",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gamers-geek/discordjs-template.git"
+  },
+  "keywords": [
+    "discordjs",
+    "discord",
+    "bot",
+    "nodejs"
+  ],
+  "author": "Gamers-geek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gamers-geek/discordjs-template/issues"
+  },
+  "homepage": "https://github.com/gamers-geek/discordjs-template#readme"
+}
